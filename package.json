@@ -1,0 +1,31 @@
+{
+  "name": "tribute",
+  "version": "1.0.0",
+  "description": "Tribute Page for Barack Obama",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smf26/Tribute-page.git"
+  },
+  "keywords": [
+    "Html",
+    "Css",
+    "Sass"
+  ],
+  "author": "Shepherd Magwagwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smf26/Tribute-page/issues"
+  },
+  "homepage": "https://github.com/Smf26/Tribute-page#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
