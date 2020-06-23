@@ -47,7 +47,7 @@ main .img {
   width: 100%;
   height: 100vh;
   border: .1em solid black;
-  background-image: url("./images/obama.jpg");
+  background-image: url("../images/obama.jpg");
   background-position: center;
   background-size: cover;
 }
